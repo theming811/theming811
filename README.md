@@ -1,4 +1,6 @@
-## Hi there 👋
+## 自我介绍
+一名游戏开发爱好者
+
 
 <!--
 **theming811/theming811** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
